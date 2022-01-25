@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "scripts": {
+    "test": "./node_modules/.bin/jest"
+  },
+  "engines": {
+    "node": "8.*",
+    "npm": "5.*"
+  },
+  "devDependencies": {
+    "dotenv": "^14.3.0",
+    "jest": "^27.4.7",
+    "jest-cli": "^27.4.7",
+    "jest-puppeteer": "^6.0.3",
+    "puppeteer": "^1.20.0"
+  }
+}
