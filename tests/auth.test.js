@@ -1,5 +1,7 @@
 const timeout = 15000;
 
+console.log('TESTED_WEBSITE: ' + process.env.TESTED_WEBSITE);
+
 // Test des fonctionnalités d'authentification
 describe("Auth features", () => {
     let page;
