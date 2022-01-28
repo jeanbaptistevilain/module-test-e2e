@@ -37,6 +37,9 @@ Déroulé
 
 5. En utilisant la marketplace Github, mettez en place un environnement d'intégration continue dans votre dépôt Github (via Travis CI par exemple : https://github.com/marketplace/travis-ci). 
 
+6. Qualification et saisie d'anomalies sur le dépôt Github : connectez-vous au site https://www.saucedemo.com avec l'identifiant *problem_user*. Constatez les problèmes rencontrés et renseignez-les sous la forme d'issues dans le dépôt Github. Veillez à indiquer toutes les informations utiles pour faciliter le travail d'investigation et de correction des bugs par la suite.
+
+
 Principe
 --------
 
